@@ -7,5 +7,6 @@
     <string name="process_image_failure">Failed to process image!</string>
     <string name="share_image_success">Image shared successfully!</string>
     <string name="share_with">Share with</string>
+    <string name="problem">Three operations should be performed on a selected image prior initiating a share:  Scaling it down, so that none of its dimensions exceeds 1,024 pixels. Inverting all the pixel colors. Adding two EXIF tags for a description and GPS position.</string>
 
 </resources>

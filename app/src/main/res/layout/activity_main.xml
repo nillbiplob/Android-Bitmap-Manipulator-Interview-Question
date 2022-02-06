@@ -32,4 +32,18 @@
     </androidx.appcompat.widget.AppCompatImageView>
 
 
+    <TextView
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:src="@mipmap/ic_launcher"
+        android:scaleType="center"
+        android:padding="10dp"
+        android:textSize="16sp"
+        android:text="@string/problem"
+        android:layout_height="match_parent">
+
+    </TextView>
+
+
+
 </androidx.appcompat.widget.LinearLayoutCompat>

@@ -26,5 +26,5 @@ Please be careful when editing `build.gradle` in your project. This task as it i
 
 
 
-Outpur Image
+Output Image
 

@@ -22,3 +22,9 @@ For now, it is fine if we pass some hardcoded values, that is those specified in
 ## Note
 
 Please be careful when editing `build.gradle` in your project. This task as it is doesn’t require any changes to it. It is generally ok to add new dependencies but changing or removing existing dependencies or configuration can cause the project and verification tests to not function in the expected way and give a unreliable score.
+
+
+
+
+Outpur Image
+
